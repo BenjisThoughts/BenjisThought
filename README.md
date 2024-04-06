@@ -8,7 +8,8 @@
 - Comptia A+
 
 </h3>👨‍💻Cybersecurity Projects: </h3>
-- Advanced MAC Changer
+
+-  Advanced MAC Changer
 
 
 </h3> come back to (3rd party certs)</h3>
