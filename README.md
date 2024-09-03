@@ -2,7 +2,8 @@
 
 </h3> 📜Certifications </h3>
 
-Security+ (Oct)
+
+- Security+ (Oct)
 
 -​ Network+ (Sept)
 
