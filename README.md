@@ -3,8 +3,11 @@
 </h3> 📜Certifications </h3>
 
 - Security+ (Oct)
+
 -​ Network+ (Sept)
+
 ​- TryHackMe Pre Security
+
 -​ A+ (May)
 ​- Forage Cybersecurity Job Sim
 -​ Forage Shields Up
