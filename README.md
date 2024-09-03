@@ -1,17 +1,33 @@
-<h1> Hi, I'm Benji! </h1>
+<h1> My Progess For My Passion </h1>
 
-- Advanced MAC Changer
+- 
 </h2> 📜Certifications </h2>
 
-- Comptia Security+
-- Comptia Network+
-- Comptia A+
+- Security+ (Expected in Oct)
+-​ Network+ (Expected Sept)
+​- TryHackMe Pre Security
+-​ A+ (May)
+​- Forage Cybersecurity Job Sim
+-​ Forage Shields Up
+
 
 </h3>👨‍💻Cybersecurity Projects: </h3>
 
 -  Advanced MAC Changer
+-  OpenCTI
+-  Wazuh
+-  Community
+
+</h3> TECHNICAL SKILLS </h3>
+-  Snort, Yara
+-  Rapid7, OpenCTI
+-  Python
+-  Linux, Windows, Mac, Android
+-  Log Analysis
 
 
-</h3> come back to (3rd party certs)</h3>
-https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_DxLJKJnQooBxeXqL6_1712290926759_completion_certificate.pdf
-https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_DxLJKJnQooBxeXqL6_1712368969525_completion_certificate.pdf
+</h3> 2024 Goals </h3>
+- Complete my Trifecta 
+- Grow a community of passionate people 
+- Go to more cybersecurity related events 
+- Continue to be great
