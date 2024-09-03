@@ -1,4 +1,4 @@
-<h1> My Progess For My Passion </h1>
+<h1> My Progess For My Passion📈 </h1>
 
 - 
 </h2> 📜Certifications </h2>
@@ -18,7 +18,8 @@
 -  Wazuh
 -  Community
 
-</h3> TECHNICAL SKILLS </h3>
+</h3> TECHNICAL SKILLS💻 </h3>
+
 -  Snort, Yara
 -  Rapid7, OpenCTI
 -  Python
@@ -26,7 +27,8 @@
 -  Log Analysis
 
 
-</h3> 2024 Goals </h3>
+</h3> 2024 Goals 🥅</h3>
+
 - Complete my Trifecta 
 - Grow a community of passionate people 
 - Go to more cybersecurity related events 
