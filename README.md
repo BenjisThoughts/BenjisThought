@@ -1,6 +1,5 @@
 <h1> My Progess For My Passion📈 </h1>
 
-- 
 </h2> 📜Certifications </h2>
 
 - Security+ (Expected in Oct)
