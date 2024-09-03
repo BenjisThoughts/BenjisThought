@@ -2,7 +2,7 @@
 
 </h2> 📜Certifications </h2>
 
-- Security+ (Expected in Oct)
+* Security+ (Expected in Oct)
 -​ Network+ (Expected Sept)
 ​- TryHackMe Pre Security
 -​ A+ (May)
