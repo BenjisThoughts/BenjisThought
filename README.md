@@ -2,8 +2,8 @@
 
 </h3> 📜Certifications </h3>
 
-- Security+ (Expected in Oct)
--​ Network+ (Expected Sept)
+- Security+ (Oct)
+-​ Network+ (Sept)
 ​- TryHackMe Pre Security
 -​ A+ (May)
 ​- Forage Cybersecurity Job Sim
