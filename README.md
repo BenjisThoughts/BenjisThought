@@ -1,7 +1,12 @@
 <h1> My Progess For My Passion📈 </h1>
 
 </h2> 📜Certifications </h2>
-
+- Security+ (Expected in Oct)
+-​ Network+ (Expected Sept)
+​- TryHackMe Pre Security
+-​ A+ (May)
+​- Forage Cybersecurity Job Sim
+-​ Forage Shields Up
 
 
 </h3>👨‍💻Cybersecurity Projects: </h3>
