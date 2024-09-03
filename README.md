@@ -1,6 +1,7 @@
 <h1> My Progess For My Passion📈 </h1>
 
-</h2> 📜Certifications </h2>
+</h3> 📜Certifications </h3>
+
 - Security+ (Expected in Oct)
 -​ Network+ (Expected Sept)
 ​- TryHackMe Pre Security
