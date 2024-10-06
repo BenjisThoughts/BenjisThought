@@ -4,9 +4,9 @@
 
 - Security+ (Oct)
 
--​ Network+ (Sept)
+-​ Network+
 
-​- A+ (May)
+​- A+ 
 
 -​ TryHackMe Pre Security
 
